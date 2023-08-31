@@ -2,11 +2,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ccddff;
+    background-color: #deecfa;
 }
 
 header {
-    background-color: #160b31;
+    background-color: #4A55A2;
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -15,7 +15,7 @@ header {
 footer {
     text-align: center;
     padding: 1rem;
-    background-color: #160b31;
+    background-color: #4A55A2;  
     color: #fff;
 }
 
@@ -34,9 +34,19 @@ label {
 }
 
 .buttons {
-    background-color: #160b31;
+    background-color: #202445;
     color: white;
-    font-size: 18px;
+    font-size: 17px;
     border-radius: 10%;
     border: 1px solid black;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+img {
+    float: right;
+    height: 350px;
+    width: 450px;
+    margin-right: 250px;
+    margin-top: 120px;
 }
